@@ -1,0 +1,16 @@
+:root {
+  /* BREAKPOINT */
+
+  /* CONSTANTS */
+  --HeaderHeight-Desktop: 56px;
+  --HeaderHeight-Tablet: 56px;
+  --HeaderHeight-Mobile: 56px;
+
+  --HeaderWidth-Desktop: 1024px;
+  --HeaderWidth-Tablet: 900px;
+  --HeaderWidth-Mobile: 600px;
+
+  --GlobalMargin-Desktop: 96px;
+  --GlobalMargin-Tablet: 96px;
+  --GlobalMargin-Mobile: 24px;
+}
